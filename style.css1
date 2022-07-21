@@ -1,0 +1,25 @@
+
+/* * {
+    padding: 0;
+    margin: 0;
+} */
+body {
+    background-color: azure;
+    }
+
+    .p1 {
+        color: blue;
+        }
+     
+       
+      .p2 {
+        color:violet;
+        }  
+
+         .p3 {
+        color:orange;
+        }  
+        #people {
+            background-color: red;
+            color: beige;
+        }
